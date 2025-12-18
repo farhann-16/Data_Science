@@ -1,0 +1,7 @@
+Name,Age,City,Gender,Email,Join_Date,Purchase_Amount
+John  ,25,Delhi,M,john@example.com,2023-01-15,5000.0
+Ana,,mumbai,F,ana123@gmail.com,15/02/2023,3500.0
+Rahul,19 ,Delhi ,M,rahul@xyz,2023/03/01,
+Sara,17,del,F,sara@example.com,2023-03-10,2000.0
+John,25,Delhi,M,john@example.com,2023-01-15,5000.0
+Mona,22,Mum,f,  mona@mail.com  ,2023/3/20,4500.0
